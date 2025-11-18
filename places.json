@@ -1,0 +1,426 @@
+[
+  {
+    "address": {
+      "building_id": "282110631993081",
+      "components": [
+        {
+          "number": "267",
+          "street": "улица Орджоникидзе",
+          "street_id": "282213711094230",
+          "type": "street_number"
+        }
+      ],
+      "postcode": "644034"
+    },
+    "address_comment": "1 этаж",
+    "address_name": "улица Орджоникидзе, 267",
+    "id": "70000001033158937",
+    "name": "БАНЗАЙ-АВТО, автокомплекс по продаже запчастей и ремонту автомобилей",
+    "reviews": {
+      "general_rating": 4.3,
+      "general_review_count": 875,
+      "general_review_count_with_stars": 1276,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        {
+          "is_reviewable": true,
+          "rating": 5,
+          "review_count": 1,
+          "tag": "2gis_reviews"
+        },
+        {
+          "is_reviewable": true,
+          "rating": 3.9,
+          "review_count": 56,
+          "tag": "flamp"
+        }
+      ],
+      "org_rating": 4.6,
+      "org_review_count": 1227,
+      "org_review_count_with_stars": 1915,
+      "rating": 3.9,
+      "review_count": 56
+    },
+    "type": "branch"
+  },
+  {
+    "address": {
+      "building_id": "282110631929390",
+      "components": [
+        {
+          "number": "17",
+          "street": "улица Ватутина",
+          "street_id": "282213711094473",
+          "type": "street_number"
+        }
+      ],
+      "postcode": "644022"
+    },
+    "address_comment": "1 этаж",
+    "address_name": "улица Ватутина, 17",
+    "full_name": "Омск, улица Ватутина, 17",
+    "id": "282003258680185",
+    "name": "REAKTOR, сеть автосервисов",
+    "purpose_name": "Автосервис",
+    "reviews": {
+      "general_rating": 4.7,
+      "general_review_count": 1312,
+      "general_review_count_with_stars": 1597,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        {
+          "is_reviewable": true,
+          "rating": 2.7,
+          "review_count": 3,
+          "tag": "2gis_reviews"
+        },
+        {
+          "is_reviewable": true,
+          "rating": 4,
+          "recommendation_count": 4,
+          "review_count": 270,
+          "tag": "flamp"
+        }
+      ],
+      "org_rating": 4.6,
+      "org_review_count": 5284,
+      "org_review_count_with_stars": 6576,
+      "rating": 4,
+      "recommendation_count": 4,
+      "review_count": 270
+    },
+    "type": "branch"
+  },
+  {
+    "address": {
+      "components": [
+        {
+          "comment": "Омск",
+          "type": "location"
+        }
+      ]
+    },
+    "id": "70000001055202080",
+    "name": "Альфа, служба выездной автопомощи для легковых и грузовых автомобилей",
+    "reviews": {
+      "general_rating": 5,
+      "general_review_count": 29,
+      "general_review_count_with_stars": 29,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        {
+          "is_reviewable": true,
+          "tag": "2gis_reviews"
+        },
+        {
+          "is_reviewable": true,
+          "tag": "flamp"
+        }
+      ],
+      "org_rating": 5,
+      "org_review_count": 29,
+      "org_review_count_with_stars": 29
+    },
+    "type": "branch"
+  },
+  {
+    "address": {
+      "components": [
+        {
+          "comment": "Омск",
+          "type": "location"
+        }
+      ]
+    },
+    "id": "70000001035415829",
+    "name": "Служба выездного шиномонтажа",
+    "reviews": {
+      "general_rating": 1,
+      "general_review_count": 1,
+      "general_review_count_with_stars": 1,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        {
+          "is_reviewable": true,
+          "tag": "2gis_reviews"
+        },
+        {
+          "is_reviewable": true,
+          "tag": "flamp"
+        }
+      ],
+      "org_rating": 1,
+      "org_review_count": 1,
+      "org_review_count_with_stars": 1
+    },
+    "type": "branch"
+  },
+  {
+    "address": {
+      "building_id": "282110631970138",
+      "components": [
+        {
+          "number": "1а",
+          "street": "улица Панфилова",
+          "street_id": "282213711094409",
+          "type": "street_number"
+        }
+      ],
+      "postcode": "644046"
+    },
+    "address_name": "улица Панфилова, 1а",
+    "id": "70000001022292849",
+    "name": "REAKTOR, сеть автосервисов",
+    "reviews": {
+      "general_rating": 4.7,
+      "general_review_count": 1502,
+      "general_review_count_with_stars": 1746,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        {
+          "is_reviewable": true,
+          "rating": 2,
+          "review_count": 5,
+          "tag": "2gis_reviews"
+        },
+        {
+          "is_reviewable": true,
+          "rating": 4,
+          "recommendation_count": 5,
+          "review_count": 228,
+          "tag": "flamp"
+        }
+      ],
+      "org_rating": 4.6,
+      "org_review_count": 5284,
+      "org_review_count_with_stars": 6576,
+      "rating": 4,
+      "recommendation_count": 5,
+      "review_count": 228
+    },
+    "type": "branch"
+  },
+  {
+    "address": {
+      "building_id": "70030076219703618",
+      "components": [
+        {
+          "number": "134 лит В",
+          "street": "Мельничная улица",
+          "street_id": "282213711095717",
+          "type": "street_number"
+        }
+      ],
+      "postcode": "644036"
+    },
+    "address_name": "Мельничная улица, 134 лит В",
+    "id": "70000001052456384",
+    "name": "Антикор-Сервис, автотехцентр полного цикла",
+    "reviews": {
+      "general_rating": 4.7,
+      "general_review_count": 171,
+      "general_review_count_with_stars": 261,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        {
+          "is_reviewable": true,
+          "tag": "2gis_reviews"
+        },
+        {
+          "is_reviewable": true,
+          "rating": 1.3,
+          "review_count": 3,
+          "tag": "flamp"
+        }
+      ],
+      "org_rating": 4.7,
+      "org_review_count": 171,
+      "org_review_count_with_stars": 261,
+      "rating": 1.3,
+      "review_count": 3
+    },
+    "type": "branch"
+  },
+  {
+    "address": {
+      "building_id": "282110632001995",
+      "components": [
+        {
+          "number": "41/19 лит Л",
+          "street": "проспект Карла Маркса",
+          "street_id": "282213711094197",
+          "type": "street_number"
+        }
+      ],
+      "postcode": "644042"
+    },
+    "address_name": "проспект Карла Маркса, 41/19 лит Л",
+    "id": "282003257921530",
+    "name": "Бегемот, автоцентр",
+    "reviews": {
+      "general_rating": 3.8,
+      "general_review_count": 260,
+      "general_review_count_with_stars": 371,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        {
+          "is_reviewable": true,
+          "tag": "2gis_reviews"
+        },
+        {
+          "is_reviewable": true,
+          "rating": 3.1,
+          "recommendation_count": 8,
+          "review_count": 93,
+          "tag": "flamp"
+        }
+      ],
+      "org_rating": 3.7,
+      "org_review_count": 377,
+      "org_review_count_with_stars": 573,
+      "rating": 3.1,
+      "recommendation_count": 8,
+      "review_count": 93
+    },
+    "type": "branch"
+  },
+  {
+    "address": {
+      "building_id": "282110631935513",
+      "components": [
+        {
+          "number": "105",
+          "street": "улица Суворова",
+          "street_id": "282213711095482",
+          "type": "street_number"
+        }
+      ],
+      "postcode": "644015"
+    },
+    "address_comment": "1 этаж",
+    "address_name": "улица Суворова, 105",
+    "id": "282003257689177",
+    "name": "СтарЛайн, фирменный установочный центр",
+    "reviews": {
+      "general_rating": 4.8,
+      "general_review_count": 248,
+      "general_review_count_with_stars": 343,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        {
+          "is_reviewable": true,
+          "tag": "2gis_reviews"
+        },
+        {
+          "is_reviewable": true,
+          "rating": 4,
+          "recommendation_count": 3,
+          "review_count": 28,
+          "tag": "flamp"
+        }
+      ],
+      "org_rating": 4.9,
+      "org_review_count": 312,
+      "org_review_count_with_stars": 438,
+      "rating": 4,
+      "recommendation_count": 3,
+      "review_count": 28
+    },
+    "type": "branch"
+  },
+  {
+    "address": {
+      "building_id": "282110632021416",
+      "components": [
+        {
+          "number": "11/1",
+          "street": "улица Энтузиастов",
+          "street_id": "282213711094333",
+          "type": "street_number"
+        }
+      ],
+      "postcode": "644088"
+    },
+    "address_name": "улица Энтузиастов, 11/1",
+    "id": "282003257853360",
+    "name": "Вулкан, шинный центр",
+    "reviews": {
+      "general_rating": 4.6,
+      "general_review_count": 209,
+      "general_review_count_with_stars": 303,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        {
+          "is_reviewable": true,
+          "rating": 1.5,
+          "review_count": 2,
+          "tag": "2gis_reviews"
+        },
+        {
+          "is_reviewable": true,
+          "rating": 4.3,
+          "review_count": 24,
+          "tag": "flamp"
+        }
+      ],
+      "org_rating": 4.6,
+      "org_review_count": 511,
+      "org_review_count_with_stars": 787,
+      "rating": 4.3,
+      "review_count": 24
+    },
+    "type": "branch"
+  },
+  {
+    "address": {
+      "building_id": "282110631947331",
+      "components": [
+        {
+          "number": "33",
+          "street": "Съездовская улица",
+          "street_id": "282213711095590",
+          "type": "street_number"
+        }
+      ],
+      "postcode": "644024"
+    },
+    "address_comment": "1 этаж",
+    "address_name": "Съездовская улица, 33",
+    "id": "70000001054520092",
+    "name": "Колёса Даром, сеть шинно-сервисных центров",
+    "reviews": {
+      "general_rating": 4.5,
+      "general_review_count": 270,
+      "general_review_count_with_stars": 428,
+      "is_reviewable": true,
+      "is_reviewable_on_flamp": true,
+      "items": [
+        {
+          "is_reviewable": true,
+          "tag": "2gis_reviews"
+        },
+        {
+          "is_reviewable": true,
+          "rating": 4.8,
+          "review_count": 18,
+          "tag": "flamp"
+        }
+      ],
+      "org_rating": 3.4,
+      "org_review_count": 762,
+      "org_review_count_with_stars": 1014,
+      "rating": 4.8,
+      "review_count": 18
+    },
+    "type": "branch"
+  }
+]
